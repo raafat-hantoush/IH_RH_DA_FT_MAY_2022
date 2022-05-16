@@ -1,3 +1,4 @@
+
 <!-- Yay, no errors, warnings, or alerts! -->
 
 <div align="center">
@@ -54,10 +55,6 @@
 ---
 
 **👉 **&nbsp;** Table of Contents**
-
-<details>
-
-<summary>📅  &nbsp;Week 1 - Python, Data Analysis Intro </summary>
 
 
 <table>
@@ -151,75 +148,75 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Command_Line/Activities/Activity_Command_Line.md">[Activity] Command Line</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1Url-LReJi6qldvShxoZDv44KLU1i_Ma0/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Git</a>
 <p>
 <a href="https://docs.google.com/presentation/d/14GnctzxNG7lVMderUJSxJdPysp5SP2Gz/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Jupyter Notebooks</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Command_Line/Cheat_Sheet_MAC_Command_Line.pdf">[Cheat Sheet] Mac Command</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Command_Line/Cheat_Sheet_Windows_Command_Prompt.pdf">[Cheat Sheet] Windows Command Line</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Git_GitHub/Cheat_Sheet_Git_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Git_GitHub/Cheat_Sheet_Git_Education.pdf">[Cheat Sheet] Git Cheat Sheet</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Jupyter_Notebook/Cheat_Sheet_Markdown.md">[Cheat sheet] Markdown Cheat Sheet</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/tree/main/Class_Materials/Git_GitHub/Labs">[LAB] Git</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/tree/main/Class_Materials/Git_GitHub/Labs">[LAB] Git</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Jupyter_Notebook/Labs/Lab_Juypter_Notebook.md">[LAB] Jupyter Notebook</a>
+<p>
+<br>
+<p>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Command_Line/Labs/Lab_Bash.md">[LAB] (Optional) Bash</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1gz8Cw4SyHB2M99Ow1R1iLGUdhiosYFcN/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Conda</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Conda/Activities/Conda_Activity_Environments.md">[Activity] Conda Environment</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Conda/Cheat_Sheet_Conda.pdf">[Cheat Sheet] Conda Cheat Sheet</a>
 <p>
 <a href="https://docs.google.com/presentation/d/17htGpsqE0czcn76asGsRD2GrQZS6r6A_/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Built-In Data Structures</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Python_Basics/Python_Built-In-Data_Structures.ipynb">[Notebook] Python Built-In Data Structures</a>
 <p>
 <a href="https://docs.google.com/presentation/d/17iF9QfaTOPnZ_mqPWGCwHHz8dcilLYzs/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python String Operations</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/tree/main/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/tree/main/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Notebook_Python_Strings.ipynb">[Lab] Python Strings</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Python_Basics/Labs/Python_Strings/LAB_Python_Strings.ipynb">[Lab] Python Strings</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Bhjmj778y7hYwG7FjU6s2MaF-6brPrXt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Functions</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Python_Basics/Code_Along_Python_Functions.ipynb">[Notebook] Python Functions</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Python_Basics/Python_Functions.ipynb">[Notebook] Python Functions</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1BlFRUmZu_bJffAmCBCzUYYaVPuFBLHw4/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Lists Comprehension</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Python_Basics/Code_Along_List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Python_Basics/List_Comprehensions.ipynb">[Notebook] Python Lists Comprehension</a>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/tree/main/Class_Materials/Prework-Review">[Lab] Pre-Work Review</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/tree/main/Class_Materials/Prework-Review">[Lab] Pre-Work Review</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1C5sj8RcoXdOgEMpqcykMvZR4MrAgp1I5/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Programming Tips</a>
 <p>
@@ -237,15 +234,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Numpy/Numpy_Python_Cheat_Sheet.pdf">[Cheat Sheet] Numpy Arrays</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Numpy/Numpy_Python_Cheat_Sheet.pdf">[Cheat Sheet] Numpy Arrays</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Numpy/Notebook_Code_Along_Numpy.ipynb">[Notebook] Numpy Arrays</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Numpy/Numpy.ipynb">[Notebook] Numpy Arrays</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Numpy/Labs/Lab_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Numpy/Labs/Lab_Numpy_exercises_with_hints.md">[Lab] Numpy Arrays</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1HFfUSfhowaFVw277Vnqg4u1XNXEpJVaH/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Python Map</a>
 <p>
@@ -255,19 +252,17 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Pandas/RH_Pandas_Data_Frame_General-Part_1.ipynb">[Code Along] Intro to Pandas</a>
 <p>
 <a href="https://docs.google.com/presentation/d/1HFWlAOXd9gRMR7i880iwVQao-OB8N4KF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">Weekly Recap</a>
 <p>
 Weekly Retro
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/tree/main/Class_Materials/Pandas/Labs/Lab_Pandas_part_1.ipynb">[Lab] Pandas Exercises</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/tree/main/Class_Materials/Pandas/Labs/Lab_Pandas_part_1.ipynb">[Lab] Pandas Exercises</a>
    </td>
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
@@ -355,25 +350,25 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-Part_2.ipynb">[Code Along] Pandas_Part_2</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Pandas/RH_Pandas_Data_Frame_General-Part_2.ipynb">[Code Along] Pandas_Part_2</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Healthcare For All Case Study]</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Health_Care_for_All_Case_Study.md">[Healthcare For All Case Study]</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare For_All_Data_Cleaning.ipynb">[Code_Along] Healthcare For All Case Study</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare For_All_Data_Cleaning.ipynb">[Code_Along] Healthcare For All Case Study</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_1</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_1</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Q8l1rqSfRiLbffkl4aChCRNYYFdCY69S/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Basic Statistical Concepts</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_2</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_2</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Q4YyrtuZWmODE2PRrWNL2T3ys9NTZWkX/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Correlation of Numerical Features</a>
 <p>
@@ -383,35 +378,35 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Notebook_Code_Along_Matplotlib_Seaborn_Complete.ipynb">[Notebook] EDA with plotting</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Matplotlib_Seaborn_Complete.ipynb">[Notebook] EDA with plotting</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Matplotlib.pdf">[Cheat Sheet] Matplotlib</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Seaborn.pdf">[Cheat Sheet] Seaborn</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data_Visualization/Matplotlib_Seaborn/Cheat_Sheet_Python_Seaborn.pdf">[Cheat Sheet] Seaborn</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_3</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_3</a>
    </td>
    <td>[Linear Regression Overview]
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Pipelining.ipynb">[Code_Along] Data_Pipelining</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Pipelining.ipynb">[Code_Along] Data_Pipelining</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Lab_Customer_Analysis_Case_Study.md">[Lab] EDA_Round_4</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1G3gbFpluZn4FDm8Y-Rq_WRXA609R3UNK/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Pandas Joining, Grouping</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Pandas/Notebook_Code_Along_RH_Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Pandas/RH_Pandas_Data_Frame_General-3.ipynb">[Notebook] Pandas contd</a>
 <p>
 <br>
 <p>
@@ -431,7 +426,7 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Pandas/Labs/Lab_Pandas_Grouping_Data_Vehicles.ipynb">[Lab Pandas Group By]</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Pandas/Labs/Lab_Pandas_Grouping_Data_Vehicles.ipynb">[Lab Pandas Group By]</a>
    </td>
   </tr>
 </table>
@@ -529,11 +524,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_Intro_Sql.md">[LAB] Lab | SQL Intro</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_Intro_Sql.md">[LAB] Lab | SQL Intro</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
    </td>
    <td>
    </td>
@@ -541,13 +536,13 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Sql Join two tables</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Two_Tables.md">[Lab] Sql Join two tables</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (Optional) Sql Join multiple tables</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Join_Multi_Tables.md">[Lab] (Optional) Sql Join multiple tables</a>
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Activities/Activities.md">[Activity ERD]</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Activities/Activities.md">[Activity ERD]</a>
 <p>
 <br>
 <p>
@@ -563,11 +558,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Notebook_Connecting_Python_To_Sql.ipynb">[Notebook] Connect Python into MySQL</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Connecting_Python_To_Sql.ipynb">[Notebook] Connect Python into MySQL</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Warehousing</a>
 <p>
@@ -581,11 +576,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Customer_Analysis_Case_Study.md">[LAB] Tableau</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_GroupBy.md">[Lab] (Optional) SQL Group By</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_GroupBy.md">[Lab] (Optional) SQL Group By</a>
    </td>
    <td>[Guest Speaker] Data Engineering
 <p>
@@ -599,7 +594,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Activities/Activity_KPI.md">[Activity] KPIs</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Activities/Activity_KPI.md">[Activity] KPIs</a>
 <p>
 <br>
 <p>
@@ -611,7 +606,7 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Dashboards.md">[LAB] Tableau Dashboard</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Lab/Lab_Tableau_Dashboards.md">[LAB] Tableau Dashboard</a>
 <p>
 <br>
 <p>
@@ -731,27 +726,27 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Transformation.md">[LAB] Lab | Data Transformation</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Linear Regression</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Lab | Model Fitting and Evaluating</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Q8KRJ_IMP7s_FDOltpmEjDJBdlMk5mqt/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Improving Model Accuracy</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Notebook_Code_Along_Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Health_Care_For_All_Case_Study/Intro_To_Pandas_Healthcare%20For_All_Modeling.ipynb">[Notebook] Linear Regression</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1PpVZeAFwRi7TzhU2NzylT63HmfTfcEte/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Sampling Distributions </a>
 <p>
@@ -761,15 +756,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Statistics/Hypothesis_Testing_Structure.ipynb">[Notebook] Hypothesis One Sample Test</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Case_Studies/Customer_Analysis_Case_Study/Activities_Linear_Regression.md">[LAB] Model Evaluation and Improving</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
    <td><a href="https://kahoot.it/">Kahoot</a>
 <p>
@@ -779,7 +774,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Statistics/Notebook_Code_Along_Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Statistics/Statistics_Hypothesis_Testing_With_2_Samples_Structure.ipynb">[Notebook] Hypothesis Two Sample Test</a>
 <p>
 <br>
 <p>
@@ -791,11 +786,11 @@ Weekly Retro
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/tree/main/Class_Materials/MidTerm_Project">Midterm Project Intro/ Briefing</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Statistics/Lab/Lab_Hypothesis_Testing.md">[Lab] Hypothesis Testing</a>
    </td>
   </tr>
 </table>
@@ -940,7 +935,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Web_Scraping/Case_Study_Gnod_Song_Recommender.md">[Case Study] Gnod Song Recommender</a>
 <p>
 <br>
 <p>
@@ -952,7 +947,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Web_Scraping/Web_Scraping.ipynb">[Notebook] Web Scraping Code Along</a>
 <p>
 <br>
 <p>
@@ -962,7 +957,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://docs.google.com/presentation/d/1l_yq7e0n13qONhLhr43sTCznWxP05C9u/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[LAB] Song Recommender Project</a> 
    </td>
-   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
+   <td><a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Web_Scraping/2_Web_Scraping.ipynb">[Notebook] Web Scraping Multiple Pages Code Along</a>
 <p>
 <br>
 <p>
@@ -970,7 +965,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Web_Scraping_1st_Prototype_Expansion.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1lKwvCn1j3QpXyBfxj7LdE6kiXHo2_tVa/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] APIs</a>
 <p>
@@ -980,15 +975,15 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Web_Scraping/Intro_APIs_Structure.ipynb">[Notebook] APIs</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Web_Scraping/Notebook_Code_Along_Spotify_Structure.ipynb">[Notebook] Spotipy</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Web_Scraping/Spotify_Structure.ipynb">[Notebook] Spotipy</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Web_Scraping/Lab/Lab_Song_Recommender_APIs.md">[LAB] Song Recommender Project </a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1lucZd2XQTkV1iQZh5CNVh0bo0tZDk323/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Clustering using K-means</a>
 <p>
@@ -998,7 +993,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/Notebook_Code_Along_KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Unsupervised_Learning/KMeans_Structure.ipynb">[Notebook] K-Means Code Along</a>
 <p>
 <br>
 <p>
@@ -1015,6 +1010,10 @@ It is Friday!! 🥳😎✌️
 
 
 </details>
+
+<details>
+
+<summary>📅  &nbsp; Week 7 - Advanced ML </summary>
 
 
 <table>
@@ -1098,11 +1097,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Code_Along_Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data%20Processing/Data_PreProcessing_Feature_Selection.ipynb">[Notebook] Feature Selection</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data%20Processing/Feature_Selection_P-Value.ipynb">[Notebook] Feature Selection using P-Value</a>
 <p>
 <br>
 <p>
@@ -1110,7 +1109,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Comparing_Models_KNN_Feature_Selection._Embedded_Methods.md">[LAB] Model_Comparision</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1e4iNB5vLgFWKgLfjiwJpQdk-n4zql7lo/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] KNN</a>
 <p>
@@ -1124,25 +1123,25 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_KNN_Housing_Prices%20KNN.ipynb">[Notebook] KNN</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_Classification_Logistic_Regression.ipynb">[Notebook] Logistic Regression</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[LAB] Logistic Regression</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1dpBvJkQ_NxPUArxR85frcYNy8U4e1j0V/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Decision Trees</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Code_Along_Supervised_Learning_Decision_Trees.ipynb">[Notebook] Decision Trees</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Supervised_Learning_Decision_Trees.ipynb">[Notebook] Decision Trees</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Decision_Trees</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1e67Y9z4F_Wr1UmeoYp0FvaUdMF6zCPjF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation ] Cross Validation</a>
 <p>
@@ -1152,11 +1151,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Cross_Validation.ipynb">[Notebook] Cross Validation</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Cross_Validation.ipynb">[Notebook] Cross Validation</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data%20Processing/Notebook_Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Data%20Processing/Handling_Imbalanced_Data.ipynb">[Notebook] Handling Imbalanced Data sets</a>
 <p>
 <br>
 <p>
@@ -1164,7 +1163,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Cross Validation & Resampling</a>
    </td>
    <td><a href="http://kahoot.it">Kahoot</a>
 <p>
@@ -1182,11 +1181,11 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest.ipynb">[Notebook] Random Forest</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Random_Forest.ipynb">[Notebook] Random Forest</a>
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Notebook_Random_Forest_Hyper_Parameter_Tunning.ipynb">[Notebook] Hyper Parameter Tuning</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Random_Forest_Hyper_Parameter_Tunning.ipynb">[Notebook] Hyper Parameter Tuning</a>
 <p>
 <br>
 <p>
@@ -1194,11 +1193,13 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Machine_Learning/Supervised_Learning/Lab/Lab_Classification_Handling_Logistic_Regression_Imbalanced_data.md">[Lab] Random Forest & Hyper Parameter Tuning</a>
    </td>
   </tr>
 </table>
 
+
+</details>
 
 <details>
 
@@ -1242,7 +1243,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Final_Project/Readme.md">Final Project Kick off</a>
 <p>
 <br>
 <p>
@@ -1250,7 +1251,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/NLP/Notebook_Code_Along_NLP.ipynb">[Notebook] NLP</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/NLP/NLP.ipynb">[Notebook] NLP</a>
 <p>
 <br>
 <p>
@@ -1279,3 +1280,4 @@ Final Project Plan Submission
 <summary> 📅  &nbsp;Week 9 - Final Project</summary>
 
 </details>
+
