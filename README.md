@@ -196,7 +196,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Python_Basics/Code_Along%20_Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
+<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/Python_Basics/Python_String_Operations.ipynb">[Notebook] Python String Operations</a>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/tree/main/Class_Materials/Python_Basics/Labs/Tuple_Sets_Dicts">[Lab] Python Built-In Data Structures</a>
 <p>
