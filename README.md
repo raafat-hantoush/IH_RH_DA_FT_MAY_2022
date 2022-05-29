@@ -108,8 +108,6 @@
 
 <li>Housekeeping Issues and Bootcamp Expectation
 
-<li>Trello
-
 <li>Command Line
 
 <li>Git & GitHub
