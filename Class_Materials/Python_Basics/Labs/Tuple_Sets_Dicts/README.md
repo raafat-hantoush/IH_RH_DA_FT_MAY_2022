@@ -10,10 +10,6 @@ Dicts, Sets, and Tuples are alternative data structures in Python to Lists which
 
 Respond to the questions in Tasks folder. Refer to the references if you are stuck.
 
-## Deliverables
-
-- `Tuples.ipynb`, `Sets.ipynb`, `Dictionaries.ipynb`, and `Nested Dictionaries.ipynb` with your responses to each of the exercises.
-
 ## Submission
 
 Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
