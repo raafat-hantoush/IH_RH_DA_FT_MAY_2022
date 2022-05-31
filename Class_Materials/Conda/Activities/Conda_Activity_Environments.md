@@ -1,7 +1,6 @@
 ## Task:
 
-- Create a new Conda environment named DA_Env and make sure that you install the following packages(after you activate your environment):
-  + Python 3.9
+- Create a new Conda environment named DA_Env  with **python version 3.9** and make sure that you install the following packages(after you activate your environment): 
   + Scipy
   + Numpy
   + Scikit-Learn
