@@ -2,7 +2,7 @@
 <b>Important: for Activity 1, Activity 2 and  Activity 3 , please use the files [file1.csv](./Data/file1.csv), [file2.csv](./Data/file2.csv) and [file3.csv](./Data/file3.csv) from the Data folder.</b>
 ### Activity 1 (Monday)
 
-- Aggregate data into one Data Frame using Pandas.
+- Aggregate data into one Data Frame using Pandas. Pay attention that files may have different names for the same column. therefore, make sure that you unify the columns names before concating them. 
 - Standardizing header names
 - Deleting and rearranging columns – delete the column customer as it is only a unique identifier for each row of data
 - Working with data types – Check the data types of all the columns and fix the incorrect ones (for ex. customer lifetime value and number of open complaints ). Hint: remove the percentage from the customer lifetime value and truncate it to an integer value.
