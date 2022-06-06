@@ -56,6 +56,10 @@
 
 **👉 **&nbsp;** Table of Contents**
 
+<details>
+
+<summary>📅  &nbsp;Week 1 - Python Basics </summary>
+
 
 <table>
   <tr>
@@ -262,9 +266,7 @@ Weekly Retro
 </table>
 
 
-<details>
-
-<summary>📅  &nbsp;Week 2 - EDA </summary>
+</details>
 
 
 <table>
@@ -429,8 +431,6 @@ Weekly Retro
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
