@@ -12,6 +12,7 @@
 
 ### Activity 2 (Tuesday)
 - Replacing null values – Replace missing values with means of the column (for numerical columns). Pay attention that the Income feature for instance has 0s which is equivalent to null values. (We assume here that there is no such income with 0 as it refers to missing values)
+Hint: numpy.nan is considered of float64 data type.
 - Bucketing the data - Write a function to replace column "State" to different zones. California as West Region, Oregon as North West, and Washington as East, and Arizona and Nevada as Central
 - (Optional) Standardizing the data – Use string functions to standardize the text data (lower case)
 - (optional) Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
