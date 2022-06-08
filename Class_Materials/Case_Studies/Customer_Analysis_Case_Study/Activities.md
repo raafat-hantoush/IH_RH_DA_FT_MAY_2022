@@ -17,7 +17,7 @@ Hint: numpy.nan is considered of float64 data type.
 - (Optional) Standardizing the data – Use string functions to standardize the text data (lower case)
 - (optional) Datetime format - Extract the months from the dataset and store in a separate column. Then filter the data to show only the information for the first quarter , ie. January, February and March. Hint: If data from March does not exist, consider only January and February.
 
-<b>Important: for Activity 4 and Activity 5 , please use the [file Data_Marketing_Customer_Analysis_Round3.csv](./Data/Data_Marketing_Customer_Analysis_Round3.csv) from the [Data](./Data) folder.</b>
+<b>Important: for Activity 3 and Activity 4 , please use the [file Data_Marketing_Customer_Analysis_Round3.csv](./Data/Data_Marketing_Customer_Analysis_Round3.csv) from the [Data](./Data) folder.</b>
 
 ### Activity 3 (Wednesday)
 
