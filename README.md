@@ -268,6 +268,10 @@ Weekly Retro
 
 </details>
 
+<details>
+
+<summary>📅  &nbsp; Week 2 - EDA </summary>
+
 
 <table>
   <tr>
@@ -432,14 +436,12 @@ Weekly Retro
 </table>
 
 
-<details>
-
-<summary>📅  &nbsp; Week 3 - Databases, BI</summary>
+</details>
 
 
 <table>
   <tr>
-   <td colspan="6" ><h2>📅 &nbsp;  <strong>Week 3</strong></h2>
+   <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 3</strong></h2>
 <p>
 <strong>Week 3 | Day 5 `s Learning Objectives:</strong>
 <ul>
@@ -472,8 +474,6 @@ Weekly Retro
 
 <li>Views
 
-<li>Connect Python to MySql
-
 <p>
 <strong>Week 3 | Day 2 `s Learning Objectives:</strong>
 <ul>
@@ -504,8 +504,6 @@ Weekly Retro
   <tr>
    <td><strong>Monday</strong>
    </td>
-   <td>
-   </td>
    <td><strong>Tuesday</strong>
    </td>
    <td><strong>Wednesday</strong>
@@ -527,8 +525,6 @@ It is Friday!! 🥳😎✌️
 <br>
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Basics_Selection_Aggregation.md">[LAB] Lab | SQL Queries</a>
-   </td>
-   <td>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1Xbe7J-rbWzFc3qHQ-vFLh4jD1Ka8ZN76/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Joins & ERD</a>
 <p>
@@ -552,14 +548,6 @@ It is Friday!! 🥳😎✌️
 <p>
 <br>
 <p>
-<a href="https://docs.google.com/presentation/d/1XbYZk3kIKlh_NraaK__FIHHDfExYvihF/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Connect Python into MySQL</a>
-<p>
-<br>
-<p>
-<a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Connecting_Python_To_Sql.ipynb">[Notebook] Connect Python into MySQL</a>
-<p>
-<br>
-<p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_Subqueries.md">[Lab] SQL Sub Queries</a>
    </td>
    <td><a href="https://docs.google.com/presentation/d/1XWF1Cyc9IwF0azBmahu0qE6Gb8WhJKl2/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Data Warehousing</a>
@@ -580,11 +568,7 @@ It is Friday!! 🥳😎✌️
 <p>
 <a href="https://github.com/raafat-hantoush/IH_RH_DA_FT_MAY_2022/blob/main/Class_Materials/SQL_MYSQL/Labs/Lab_SQL_GroupBy.md">[Lab] (Optional) SQL Group By</a>
    </td>
-   <td>[Guest Speaker] Data Engineering
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1_r3eRSgP68AXpAIISjXao9lT90bdgjYx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
+   <td><a href="https://docs.google.com/presentation/d/1_r3eRSgP68AXpAIISjXao9lT90bdgjYx/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Tableau </a>
 <p>
 <br>
 <p>
@@ -613,8 +597,6 @@ Weekly Retro
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
@@ -700,11 +682,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td>[Guest Speaker]
-<p>
-<br>
-<p>
-[Demo] No-SQL Databases MongoDB
+   <td>[Demo] No-SQL Databases MongoDB
 <p>
 <br>
 <p>
