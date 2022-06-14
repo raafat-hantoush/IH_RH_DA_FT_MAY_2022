@@ -60,7 +60,12 @@ BLANKET BEVERLY
 
 Expected output:
 ```shell
-6
+DERRICK BOURQUE	DERRICK.BOURQUE@sakilacustomer.org
+DARRELL POWER	DARRELL.POWER@sakilacustomer.org
+LORETTA CARPENTER	LORETTA.CARPENTER@sakilacustomer.org
+CURTIS IRBY	CURTIS.IRBY@sakilacustomer.org
+TROY QUIGLEY	TROY.QUIGLEY@sakilacustomer.org
+
 ```
 
 # Optional
