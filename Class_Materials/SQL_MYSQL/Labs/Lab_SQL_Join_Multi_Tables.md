@@ -41,7 +41,7 @@ Sci-Fi		108.20
 Sports		128.20
 Travel		113.32
 ```
-4. Which film categories are longest(length)? (Hint: You can rely on question 3 output.)
+4. Which film categories are longest(length) (find Top 5)? (Hint: You can rely on question 3 output.)
 
 Expected output:
 ```shell
