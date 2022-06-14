@@ -69,3 +69,9 @@ ARABIA DOGMA		12
 - **Optional**: Which is the most rented film?
 The answer is Bucket Brotherhood
 This query might require using more than one join statement. Give it a try.
+
+
+Expected output:
+```shell
+
+```
