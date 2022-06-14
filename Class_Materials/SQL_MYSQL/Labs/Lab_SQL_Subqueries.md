@@ -73,16 +73,43 @@ TROY QUIGLEY	TROY.QUIGLEY@sakilacustomer.org
 
 Expected output:
 ```shell
-
+42 rows including: 
+BED HIGHBALL
+CALENDAR GUNFIGHT
+CHAMBER ITALIAN
+CHAPLIN LICENSE
+CHARIOTS CONSPIRACY
+CLUELESS BUCKET
+COLDBLOODED DARLING
+CONEHEADS SMOOCHY
+DARKNESS WAR
+DEER VIRGINIAN
 ```
 7. Films rented by most profitable customer. You can use the customer table and payment table to find the most profitable customer ie the customer that has made the largest sum of payments
 
 Expected output:
 ```shell
-
+44 rows including 
+DESTINY SATURDAY
+CYCLONE FAMILY
+SLUMS DUCK
+FIDELITY DEVIL
+SPLASH GUMP
+MISSION ZOOLANDER
+MULHOLLAND BEAST
+PRINCESS GIANT
+PARIS WEEKEND
+RACER EGG
 ```
 8. Customers who spent more than the average payments.
 Expected output:
 ```shell
-
+285 rows including:
+ALAN KAHN
+ALEX GRESHAM
+ALEXANDER FENNELL
+…
+WARREN SHERROD
+WESLEY BULL
+ZACHARY HITE
 ```
