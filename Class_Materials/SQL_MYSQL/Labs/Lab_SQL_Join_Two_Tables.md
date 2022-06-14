@@ -66,9 +66,7 @@ LONELY ELEPHANT		12
 ARABIA DOGMA		12
 ```
 7. Using the tables `payment` and `customer` and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name.
-- **Optional**: Which is the most rented film?
-The answer is Bucket Brotherhood
-This query might require using more than one join statement. Give it a try.
+
 
 
 Expected output:
@@ -84,3 +82,7 @@ LISA	ANDERSON	106.76
 JOSE	ANDREW	96.75
 IDA	ANDREWS	76.77
 ```
+- **Optional**: Which is the most rented film?
+The answer is Bucket Brotherhood
+This query might require using more than one join statement. Give it a try.
+
