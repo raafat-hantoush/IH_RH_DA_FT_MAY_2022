@@ -10,11 +10,61 @@ The database is structured as follows:
 ### Instructions
 
 1. Which actor has appeared in the most films?
+
+Expected output:
+```shell
+GINA DEGENERES	42
+```
 2. Most active customer (the customer that has rented the most number of films)
+
+Expected output:
+```shell
+ELEANOR HUNT	46
+```
 3. List number of films per `category`.
+
+Expected output:
+```shell
+Games		61
+Sci-Fi		61
+Drama		62
+New		63
+Action		64
+Animation	66
+Documentary	68
+Family		69
+Foreign	73
+Sports		74
+```
 4. Display the first and last names, as well as the address, of each staff member.
+
+Expected output:
+```shell
+Mike	Hillyer		23 Workhaven Lane
+Jon	Stephens	1411 Lillydale Drive
+```
 5. Display the total amount rung up by each staff member in August of 2005.
+
+Expected output:
+```shell
+Jon Stephens	12218.48
+Mike Hillyer	11853.65
+```
 6. List each film and the number of actors who are listed for that film.
+
+Expected output:
+```shell
+LAMBS CINCINATTI		15
+CHITTY LOCK			13
+CRAZY HOME			13
+RANDOM GO			13
+DRACULA CRYSTAL		13
+BOONDOCK BALLROOM	13
+MUMMY CREATURES		13
+HELLFIGHTERS SIERRA	12
+LONELY ELEPHANT		12
+ARABIA DOGMA		12
+```
 7. Using the tables `payment` and `customer` and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name.
 - **Optional**: Which is the most rented film?
 The answer is Bucket Brotherhood
