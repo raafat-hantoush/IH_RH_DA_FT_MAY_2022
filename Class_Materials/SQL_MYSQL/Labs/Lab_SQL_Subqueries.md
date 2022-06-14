@@ -102,6 +102,7 @@ PARIS WEEKEND
 RACER EGG
 ```
 8. Customers who spent more than the average payments.
+
 Expected output:
 ```shell
 285 rows including:
