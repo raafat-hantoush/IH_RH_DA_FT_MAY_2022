@@ -11,7 +11,7 @@ The database is structured as follows:
 
 1. Which actor has appeared in the most films? 
 
-Hint:  group by actor_id
+```Hint:  group by actor_id```
 
 Expected output:
 ```shell
