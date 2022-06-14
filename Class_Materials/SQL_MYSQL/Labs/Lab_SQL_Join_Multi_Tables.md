@@ -51,7 +51,7 @@ Foreign	121.70
 Drama	120.84
 Comedy	115.83
 ```
-5. Display the most frequently(number of times) rented movies in descending order.
+5. Display the top 5 most frequently(number of times) rented movies in descending order.
 
 Expected output:
 ```shell
