@@ -60,7 +60,7 @@ Mike Hillyer	11853.65
 ```
 6. List each film and the number of actors who are listed for that film.
 
-Expected output:
+Expected output: Top 10 out of 997 rows
 ```shell
 LAMBS CINCINATTI		15
 CHITTY LOCK			13
@@ -75,9 +75,7 @@ ARABIA DOGMA		12
 ```
 7. Using the tables `payment` and `customer` and the JOIN command, list the total paid by each customer. List the customers alphabetically by last name.
 
-
-
-Expected output:
+Expected output:  Top 10 out of 599 rows
 ```shell
 AFAEL	ABNEY	97.79
 NATHANIEL	ADAM	133.72
