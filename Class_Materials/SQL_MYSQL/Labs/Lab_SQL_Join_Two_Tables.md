@@ -27,16 +27,22 @@ ELEANOR HUNT	46
 
 Expected output:
 ```shell
-Games		61
-Sci-Fi		61
-Drama		62
-New		63
-Action		64
+Action	64
 Animation	66
+Children	60
+Classics	57
+Comedy	58
 Documentary	68
-Family		69
+Drama	62
+Family	69
 Foreign	73
-Sports		74
+Games	61
+Horror	56
+Music	51
+New	63
+Sci-Fi	61
+Sports	74
+Travel	57
 ```
 4. Display the first and last names, as well as the address, of each staff member.
 
