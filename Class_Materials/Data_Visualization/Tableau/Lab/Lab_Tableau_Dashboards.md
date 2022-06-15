@@ -1,6 +1,6 @@
 # Lab Tableau Dashboard
 
-Using Super store Data set [Data](https://github.com/raafat-hantoush/IH_RH_DA_FT_MAR_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Data/Sample%20-%20Superstore.xls), you are required to build a Dashboard using Tableau that gives better insight for the business executives about the overall performance of the business.
+Using Super store Data set [Data](https://github.com/raafat-hantoush/IH_RH_DA_FT_MAy_2022/blob/main/Class_Materials/Data_Visualization/Tableau/Data/Sample%20-%20Superstore.xls), you are required to build a Dashboard using Tableau that gives better insight for the business executives about the overall performance of the business.
 
 - latest year KPIs:
    - total profit
