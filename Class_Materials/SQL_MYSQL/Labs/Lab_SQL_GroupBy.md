@@ -61,6 +61,7 @@ PG-13	120.44
 R	    118.66
 ```
 6. Which kind of movies (rating) have a mean duration of more than two hours?
+
 Expected output:
 ```shell
 PG-13
