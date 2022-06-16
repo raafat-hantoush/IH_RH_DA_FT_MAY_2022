@@ -44,11 +44,11 @@ Expected output:
 
 Expected output:
 ```shell
-PG	  194
-G	    178
-NC-17	210
-PG-13	223
-R	    195
+PG    194
+G     178
+NC-17     210
+PG-13     223
+R     195
 ```
 5. What is the mean length of the film for each rating type. Round off the average lengths to two decimal places 
 
