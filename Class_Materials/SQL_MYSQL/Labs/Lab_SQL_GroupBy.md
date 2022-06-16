@@ -44,16 +44,20 @@ Expected output:
 
 Expected output:
 ```shell
-1000
+PG	        194
+G	        178
+NC-17	210
+PG-13	223
+R	        195
 ```
 5. What is the mean length of the film for each rating type. Round off the average lengths to two decimal places 
 
 Expected output:
 ```shell
-PG	      112.01
+PG	        112.01
 G	        111.05
-NC-17	    113.23
-PG-13	    120.44
+NC-17	113.23
+PG-13	120.44
 R	        118.66
 ```
 6. Which kind of movies (rating) have a mean duration of more than two hours?
