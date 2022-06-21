@@ -438,6 +438,10 @@ Weekly Retro
 
 </details>
 
+<details>
+
+<summary>📅  &nbsp; Week 3 - Database, Visualization </summary>
+
 
 <table>
   <tr>
@@ -598,9 +602,7 @@ Weekly Retro
 </table>
 
 
-<details>
-
-<summary>📅  &nbsp; Week 4 - Regression- Hypothesis testing </summary>
+</details>
 
 
 <table>
@@ -682,11 +684,7 @@ It is Friday!! 🥳😎✌️
    </td>
   </tr>
   <tr>
-   <td>[Demo] No-SQL Databases MongoDB
-<p>
-<br>
-<p>
-<a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
+   <td><a href="https://docs.google.com/presentation/d/1S8hwEcbKEzIf3MNy3_hNMseoL1n36QBQ/edit?usp=sharing&ouid=108298089999640278508&rtpof=true&sd=true">[Presentation] Storytelling with Data]</a>
 <p>
 <br>
 <p>
