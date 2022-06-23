@@ -15,3 +15,7 @@
   - R2.
   - Adjusted R2.
 - Feature Importance.
+
+### Model Iteration (Thursday and Friday)
+- Please rerun the model after removing the outliers and compare the results using R2 metric.
+- Please reru the model after adding the hot encoded categorical variables as well as other numeric categroical variables (e.g. number of open complaintes)  
