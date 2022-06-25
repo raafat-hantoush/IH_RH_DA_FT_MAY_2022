@@ -58,7 +58,7 @@
 
 <details>
 
-<summary>📅  &nbsp;Week 1 - Python Basics </summary>
+<summary>📅  &nbsp;Week 1 - Python, Data Analysis Intro </summary>
 
 
 <table>
