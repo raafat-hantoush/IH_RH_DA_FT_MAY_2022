@@ -604,7 +604,9 @@ Weekly Retro
 
 </details>
 
+<details>
 
+<summary>📅  &nbsp; Week 4 - Linear Regression, Hypothesis Testing </summary>
 <table>
   <tr>
    <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 4</strong></h2>
