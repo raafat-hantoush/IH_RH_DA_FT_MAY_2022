@@ -8,7 +8,7 @@ The questions have been provided later in the document for which you can use tab
 
 **Data**: The data set consists of information on some 22,000 properties.  The dataset consisted of historic data of houses sold between May 2014 to May 2015.
 These are the definitions of data points provided:
-(Note: For some of the variables that are self explanatory, no definition has been provided)
+(You can find more detailed explanation in this [Link](https://geodacenter.github.io/data-and-lab/KingCounty-HouseSales2015/))
 
 - **Id**: Unique identification number for the property.
 - **date**: date the house was sold.
