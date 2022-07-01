@@ -58,7 +58,7 @@
 
 <details>
 
-<summary>📅  &nbsp;Week 1 - Python, Data Analysis Intro </summary>
+<summary>📅  &nbsp;Week 1 - Python Basics </summary>
 
 
 <table>
@@ -606,7 +606,9 @@ Weekly Retro
 
 <details>
 
-<summary>📅  &nbsp; Week 4 - Linear Regression, Hypothesis Testing </summary>
+<summary>📅  &nbsp; Week 4 - Linear Regression, Hypothesis Testing</summary>
+
+
 <table>
   <tr>
    <td colspan="5" ><h2>📅 &nbsp;  <strong>Week 4</strong></h2>
@@ -829,10 +831,6 @@ It is Friday!! 🥳😎✌️
 
 </details>
 
-<details>
-
-<summary>📅  &nbsp; Week 6 - Song Recommender</summary>
-
 
 <table>
   <tr>
@@ -984,8 +982,6 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
