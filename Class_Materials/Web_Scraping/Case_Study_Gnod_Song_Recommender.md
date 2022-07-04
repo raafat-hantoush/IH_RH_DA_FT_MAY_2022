@@ -21,8 +21,8 @@ We are thrilled to welcome you as a Data Analyst for *Gnoosic*!_
 
 _As you know, we are trying to come up with ways to enhance our music recommendations. One of the new features we'd like to research is to recommend songs (not only bands). We're also aware of the limitations of our collaborative filtering algorithms, and would like to give users two new possibilities when searching for recommendations:_
 
-- _Songs that are actually similar to the ones they picked from an acoustic point of view._
 - _Songs that are popular around the world right now, independently from their tastes._
+- _Songs that are actually similar to the ones they picked from an acoustic point of view._
 
 _Coming up with the perfect song recommender will take us months - no need to stress out too much. In this first week, we want you to explore new data sources for songs. The Internet is full of information and our first step is to acquire it do an initial exploration. Feel free to use APIs or directly scrape the web to collect as much information as possible from popular songs. Eventually, we'll need to collect data from millions of songs, but we can start with a few hundreds or thousands from each source and see if the collected features are useful._
 
