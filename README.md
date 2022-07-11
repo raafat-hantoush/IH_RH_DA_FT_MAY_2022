@@ -831,6 +831,10 @@ It is Friday!! 🥳😎✌️
 
 </details>
 
+<details>
+
+<summary>📅  &nbsp; Week 6 - Song Recommender</summary>
+
 
 <table>
   <tr>
@@ -983,9 +987,7 @@ It is Friday!! 🥳😎✌️
 </table>
 
 
-<details>
-
-<summary>📅  &nbsp; Week 7 - Advanced ML </summary>
+</details>
 
 
 <table>
@@ -1170,8 +1172,6 @@ It is Friday!! 🥳😎✌️
   </tr>
 </table>
 
-
-</details>
 
 <details>
 
