@@ -21,7 +21,7 @@ Round 1
 - Use the following features: `tenure`, `SeniorCitizen`, `MonthlyCharges` and `TotalCharges`:
   - Scale the features either by using normalizer or a standard scaler.
   - Split the data into a training set and a test set.
-  - Fit a logistic Regression model on the training data.
+  - (optional)Fit a logistic Regression model on the training data.
   - Fit a Knn Classifier(NOT KnnRegressor please!)model on the training data.
  
  Round 2
