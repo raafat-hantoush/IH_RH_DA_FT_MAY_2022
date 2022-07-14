@@ -30,16 +30,18 @@ Round 1
 
  Round 3
  -  apply K-fold cross validation on your models before and check the model score.
+
+ Managing imbalance in the dataset
+
+- Check for the imbalance.
+- Use the resampling strategies used in class for upsampling and downsampling to create a balance between the two classes.
+- Each time fit the model and see how the accuracy of the model is.
+
 **Note**: So far we have not balanced the data.
 
  Round 4
  - fit a Random forest Classifier on the data and compare the accuracy. 
  - tune the hyper paramters with gridsearch and check the results.
 
-Managing imbalance in the dataset
-
-- Check for the imbalance.
-- Use the resampling strategies used in class for upsampling and downsampling to create a balance between the two classes.
-- Each time fit the model and see how the accuracy of the model is.
 
 
